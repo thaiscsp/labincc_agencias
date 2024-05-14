@@ -1,4 +1,4 @@
-Dados de press releases coletados da Agência BORI e da EurekAlert!, disponibilizados em formato CSV.
+Dados de press releases coletados da Agência BORI e da EurekAlert!, disponibilizados em formato CSV.<br>
 Coleta realizada a pedido do <a href="https://labincc.labjor.unicamp.br/">Laboratório de Inclusão na Comunicação e na Ciência (LABinCC)</a>.
 <br><br>
 
