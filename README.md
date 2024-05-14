@@ -11,7 +11,7 @@ Coleta realizada a pedido do <a href="https://labincc.labjor.unicamp.br/">Labora
   <table>
               <tr><th>Nome da coluna</th><th>Dado coletado</th></tr>
               <tr><td>Title</td><td>Título do press release</td></tr>
-              <tr></tr><td>Title_link</td><td>Link do press release</td></tr>
+              <tr><td>Title_link</td><td>Link do press release</td></tr>
               <tr><td>category</td><td>Categoria definida pela agência</td></tr>
               <tr><td>entry_date</td><td>Data de publicação</td></tr>
               <tr><td>Thumbnail</td><td>Link da imagem</td></tr>
