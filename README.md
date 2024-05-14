@@ -1,5 +1,5 @@
 Dados de press releases coletados da Agência BORI e da EurekAlert!, disponibilizados em formato CSV.
-<br>
+<br><br>
 
 <b>Agência BORI</b>
 - Período coletado: 2020 a 2023.
