@@ -2,9 +2,11 @@ Dados de press releases coletados da Agência BORI e da EurekAlert!, disponibili
 <br><br>
 
 <b>Agência BORI</b>
-- Período coletado: 2020 a 2023.
-- Total de 560 releases.
-- Colunas:
+<ul>
+  <li>Período coletado: 2020 a 2023.</li>
+  <li>Total de 560 releases.</li>
+  <li>Colunas:</li>
+</ul>
   <table>
               <tr><th>Nome da coluna</th><th>Dado coletado</th></tr>
               <tr><td>Title</td><td>Título do press release</td></tr>
@@ -19,9 +21,11 @@ Dados de press releases coletados da Agência BORI e da EurekAlert!, disponibili
 <br>
 
 <b>EurekAlert!</b>
-- Período coletado: julho de 2021 a 2023 (até o momento).
-- Total de 84660 releases.
-- Colunas:
+<ul>
+  <li>Período coletado: julho de 2021 a 2023 (até o momento).</li>
+  <li>Total de 84660 releases.</li>
+  <li>Colunas:</li>
+</ul>
   <table>
             <tr>
                         <th>Nome da coluna</th>
