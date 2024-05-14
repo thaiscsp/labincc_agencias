@@ -49,9 +49,34 @@ Agência BORI
 EurekAlert!
 - Período coletado: julho de 2021 a 2023 (até o momento).
 - Total de 84660 releases.
-- Colunas:  titulo (título do press release)
-            url (link do press release)
-            data_publicacao (do press release)
-            palavras_chave (do press release)
-            conteudo (conteúdo do press release)
-            doi (DOI do artigo divulgado)
+- Colunas:
+  <table>
+            <tr>
+                        <th>Nome da coluna</th>
+                        <th>Dado coletado</th>
+            </tr>
+            <tr>
+                        <td>titulo</td>
+                        <td>Título do press release</td>
+            </tr>
+            <tr>
+                        <td>url</td>
+                        <td>Link do press release</td>
+            </tr>
+            <tr>
+                        <td>data_publicacao</td>
+                        <td>Data de publicação</td>
+            </tr>
+            <tr>
+                        <td>palavras_chave</td>
+                        <td>Palavras-chave</td>
+            </tr>
+            <tr>
+                        <td>conteudo</td>
+                        <td>Conteúdo do press release</td>
+            </tr>
+            <tr>
+                        <td>doi</td>
+                        <td>DOI do artigo divulgado</td>
+            </tr>
+</table>
