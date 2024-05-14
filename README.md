@@ -12,6 +12,13 @@ Agência BORI
             post (conteúdo do press release)
             Local (caminho do press release no site, ou breadcrumb)
             DOI (DOI do artigo divulgado)
+<table>
+            <tr>
+                        <th>Nome da coluna</th>
+                        <th>Dado coletado</th>
+            </tr>
+            <tr><td>Title</td><td>Título do press release</td></tr>
+</table>
 
 
 EurekAlert!
