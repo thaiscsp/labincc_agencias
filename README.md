@@ -9,7 +9,6 @@ Coleta realizada a pedido do <a href="https://labincc.labjor.unicamp.br/">Labora
   <li>Colunas:</li>
 </ul>
   <table>
-              <tr><th>Nome da coluna</th></tr>
               <tr><td>titulo</td></tr>
               <tr><td>url</td></tr>
               <tr><td>categoria</td></tr>
@@ -28,7 +27,6 @@ Coleta realizada a pedido do <a href="https://labincc.labjor.unicamp.br/">Labora
   <li>Colunas:</li>
 </ul>
   <table>
-            <tr><th>Nome da coluna</th></tr>
             <tr><td>title</td></tr>
             <tr><td>url</td></tr>
             <tr><td>date</td></tr>
