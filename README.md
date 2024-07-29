@@ -10,14 +10,14 @@ Coleta realizada a pedido do <a href="https://labincc.labjor.unicamp.br/">Labora
 </ul>
   <table>
               <tr><th>Nome da coluna</th><th>Dado coletado</th></tr>
-              <tr><td>Title</td><td>Título do press release</td></tr>
-              <tr><td>Title_link</td><td>Link do press release</td></tr>
-              <tr><td>category</td><td>Categoria definida pela agência</td></tr>
-              <tr><td>entry_date</td><td>Data de publicação</td></tr>
-              <tr><td>Thumbnail</td><td>Link da imagem</td></tr>
-              <tr><td>post</td><td>Conteúdo do press release</td></tr>
-              <tr><td>Local</td><td>Caminho do press release no site, ou breadcrumb</td></tr>
-              <tr><td>DOI</td><td>DOI do artigo divulgado</td></tr>
+              <tr><td>titulo</td><td>Título do press release</td></tr>
+              <tr><td>url</td><td>Link do press release</td></tr>
+              <tr><td>categoria</td><td>Categoria definida pela agência</td></tr>
+              <tr><td>data_publicacao</td><td>Data de publicação</td></tr>
+              <tr><td>conteudo</td><td>Conteúdo do press release</td></tr>
+              <tr><td>doi_conteudo</td><td>DOI disponbilizado no conteúdo do press release</td></tr>
+              <tr><td>links_externos</td><td>Links exibidos no conteúdo do press release</td></tr>
+              <tr><td>todos_dois</td><td>Junção dos DOIs exibidos no conteúdo com aqueles encontrados através dos links externos</td></tr>
 </table>
 <br>
 
